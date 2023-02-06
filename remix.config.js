@@ -3,8 +3,7 @@
  */
 module.exports = {
     ignoredRouteFiles: ["**/.*"],
-    // devServerPort: 3000,
-    // appDirectory: "app",
+    appDirectory: "app",
     // assetsBuildDirectory: "public/build",
     // serverBuildPath: "build/index.js",
     // publicPath: "/build/",
